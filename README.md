@@ -1,12 +1,12 @@
-<div align="center">
+
 # <>HELLO WORLD</> 
 
-**I'm Tiago** </br>
+## I'm Tiago** </br>
 🌱 I’m currently learning React, soon I will try some back-end tools aswell.</br>
 📧 tiagonsantos97@gmail.com </br>
 👯 I’m looking for a Internship
 
-</div>
+
 
 
 <!--
