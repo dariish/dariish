@@ -1,6 +1,6 @@
 # <>HELLO WORLD</> 
 <p align="center">
-## I am Tiago</br>
+## I am Tiago
 🌱 I’m currently learning React, soon I will try some back-end tools aswell.</br>
 📧 tiagonsantos97@gmail.com </br>
 👯 I’m looking for a Internship
