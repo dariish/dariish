@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 # <>HELLO WORLD</> 
 
 **I'm Tiago** </br>
@@ -6,7 +6,8 @@
 📧 tiagonsantos97@gmail.com </br>
 👯 I’m looking for a Internship
 
-</p>
+</div>
+
 
 <!--
 **dariish/dariish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
