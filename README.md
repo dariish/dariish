@@ -1,4 +1,11 @@
-### Hi there 👋
+# <>HELLO WORLD</> 
+
+I'm Tiago</br>
+🌱 I’m currently learning React, soon I will try some back-end tools aswell.</br>
+📧 tiagonsantos97@gmail.com </br>
+👯 I’m looking for a Internship
+
+
 
 <!--
 **dariish/dariish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
